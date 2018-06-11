@@ -1,0 +1,6 @@
+[package]
+name = "Vulkanoplayground"
+version = "0.1.0"
+authors = ["wowbob396 <wowbob396@gmail.com>"]
+
+[dependencies]
